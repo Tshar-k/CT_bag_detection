@@ -3,8 +3,8 @@ CT scans of bags will be detected to find different kinds of objects
 This Automated system can be implemented to enhance security and decrease the time taken at airport security checks.
 
 
-![one](https://github.com/Tshar-k/CT_bag_detection/assets/117516567/90d651be-d6a9-4072-8507-fc19e813c525)
 
+![two](https://github.com/Tshar-k/CT_bag_detection/assets/117516567/b6cb3a1f-0f15-41a5-8884-9900fc4543bd)
 
 
 ![img3](https://github.com/Tshar-k/CT_bag_detection/assets/117516567/5dbdb33d-65cf-49ac-9f1b-c1b0ed6f8eaa)
